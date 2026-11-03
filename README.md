@@ -99,3 +99,10 @@ Open `http://localhost:5500` in any modern browser.
 ## 📜 License
 
 Crafted as a personal birthday celebration for **Arshi** and a frontend engineering portfolio piece.
+
+---
+
+## 🌐 Live Demo
+
+Experience the interactive BirthdayVerse celebration here:  
+👉 **[https://arshi246.github.io/birthday-verse-arshi/](https://arshi246.github.io/birthday-verse-arshi/)**
